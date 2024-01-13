@@ -5,7 +5,7 @@ android {
     buildToolsVersion "29.0.2"
 
     defaultConfig {
-        applicationId "com.manichord.synthesizer"
+        applicationId "com.codereamp.synthesizer"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 3

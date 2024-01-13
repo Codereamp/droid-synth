@@ -34,7 +34,7 @@
         android:gravity="center_horizontal" />
   </TableRow>
   <TableRow>
-    <com.manichord.synthesizer.android.widgets.knob.KnobView
+    <com.codereamp.synthesizer.android.widgets.knob.KnobView
         android:id="@+id/volumeKnob"
         app:value="0.0"
         app:min="0"
@@ -51,7 +51,7 @@
         android:layout_height="fill_parent"
         android:layout_span="6"
         android:orientation="vertical">
-      <com.manichord.synthesizer.android.widgets.piano.PianoView
+      <com.codereamp.synthesizer.android.widgets.piano.PianoView
           android:id="@+id/piano"
           android:layout_width="fill_parent"
           android:layout_height="wrap_content"

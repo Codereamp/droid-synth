@@ -22,7 +22,7 @@
         android:layout_height="fill_parent"
         android:layout_span="6"
         android:orientation="vertical">
-      <com.manichord.synthesizer.android.widgets.ChordGridView
+      <com.codereamp.synthesizer.android.widgets.ChordGridView
           android:id="@+id/chord_grid"
           android:layout_width="fill_parent"
           android:layout_height="wrap_content"
